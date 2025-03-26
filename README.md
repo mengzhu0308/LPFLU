@@ -1,4 +1,4 @@
-# LPFLU
+# LeakyPFLU
 Codes of the paper "Constructing a smoothed Leaky ReLU using a linear combination of the smoothed ReLU and identity function"
 
 # Citation of the Paper
